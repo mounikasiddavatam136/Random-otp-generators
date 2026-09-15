@@ -1,0 +1,27 @@
+# Random OTP Generator
+
+## Project Name
+Random OTP Generator
+
+## Problem Statement
+Create a simple Java console-based OTP Generator that generates
+a random 6-digit OTP and displays it to the user.
+
+## Technologies Used
+- Java
+- java.util.Random
+- Git
+- GitHub
+
+## How to Run the Program
+1. Open OTPGenerator.java in a Java IDE.
+2. Compile the program.
+3. Run the program.
+4. The program displays a random 6-digit OTP.
+
+## Sample Output
+========== OTP GENERATOR ==========
+Your OTP is: 583214
+===================================
+
+The OTP will be different each time the program runs.
